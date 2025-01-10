@@ -23,6 +23,7 @@
     - [Annotating types with `#[must-use]`](./must-use-types.md)
     - [Field visibility](./visibility.md)
     - [Code formatting](./code-formatting.md)
+    - [Generate `libloading` bindings](./libloading.md)
 - [Generating Bindings to C++](./cpp.md)
 - [Generating Bindings to Objective-c](./objc.md)
 - [Using Unions](./using-unions.md)
